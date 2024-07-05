@@ -40,15 +40,15 @@
 				<h3 align="center">Olipop Landing Page Template</h3>
 				<div align="center">  
 					<a href='https://alecon.io/portfolio/olipop-template/' target="_blank">
-						<img src="https://alecon.io/assets/imgs/olipop-p-thumbnail.webp" alt="project 1" height="100%" />
+						<img src="https://raw.githubusercontent.com/ProxyParty/alecon.io/main/assets/olipop-p-thumbnail.webp" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="#" target="_blank">
+<!-- 						<a href="#" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="#" target="_blank">
+						</a>   -->
+						<a href="https://alecon.io/portfolio/olipop-template/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
@@ -62,20 +62,20 @@
 				<h3 align="center">Ember Store (Shopify)</h3>
 				<div align="center" >  
 					<a href='https://emberdevshop.myshopify.com/' target="_blank">
-						<img src="https://alecon.io/assets/imgs/ember-p-thumbnail.webp" alt="project 2" height="100%" />
+						<img src="https://raw.githubusercontent.com/ProxyParty/alecon.io/main/assets/ember-p-thumbnail.webp" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="#" target="_blank">
+<!-- 						<a href="#" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="#" target="_blank">
+						</a>   -->
+						<a href="https://emberdevshop.myshopify.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
 					 <p><strong>Shopify CMS</strong></p>
-					<p>Description goes here</p>
+					<p>Password: YUREED</p>
 				</div>
         </tr>
 	    <tr>
@@ -83,15 +83,15 @@
                 <h3 align="center">Healthy As A Motha (Wordpress)</h3>
                 <div align="center" >  
                     <a href='https://haamrestaurant.wordpress.com/' target="_blank">
-                        <img src="https://alecon.io/assets/imgs/haam-p-thumbnail.webp" alt="project 3" height="100%" />
+                        <img src="https://raw.githubusercontent.com/ProxyParty/alecon.io/main/assets/haam-p-thumbnail.webp" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="#" target="_blank">
+<!--                         <a href="#" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="#" target="_blank">
+						</a>   -->
+						<a href="https://haamrestaurant.wordpress.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
